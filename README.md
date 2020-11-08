@@ -13,6 +13,8 @@
 
 ### How to use
 
-* Tyoe this command in terminal:
-```pyspark < northwind.spark.py````
+* Type this command in terminal:
+```
+pyspark < northwind.spark.py
+````
 
