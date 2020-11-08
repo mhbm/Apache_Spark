@@ -1,7 +1,6 @@
 ## Northwind Datasets for Spark ##
 
 ### What it is
-* A fork of https://github.com/tmcnab/northwind-mongo
 * Just a simple data dump from SQL's Northwind database to a CSV
 * CSV (northwind.csv) turned into multiple CSVs
 * Scripts to create Dataframes/tables in Apache Spark
