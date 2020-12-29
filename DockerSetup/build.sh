@@ -1,7 +1,7 @@
 # -- Software Stack Version
 
 SPARK_VERSION="3.0.0"
-HADOOP_VERSION="2.7"
+HADOOP_VERSION="2.7"sh 
 JUPYTERLAB_VERSION="2.1.5"
 
 # -- Building the Images
